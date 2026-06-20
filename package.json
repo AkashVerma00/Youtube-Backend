@@ -1,0 +1,17 @@
+{
+  "name": "youtubebackend",
+  "version": "1.0.0",
+  "description": "Backend for Youtube",
+  "keywords": [
+    "javasript",
+    "express",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Akash Verma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
